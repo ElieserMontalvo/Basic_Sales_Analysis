@@ -1,0 +1,17 @@
+Date,Region,Salesperson,Product,Units Sold,Unit Price,Total Sale
+2023-01-05,North,Alice,Electronics,10,120.50,1205.00
+2023-01-07,East,Bob,Furniture,5,300.00,1500.00
+2023-01-10,West,Charlie,Clothing,20,25.00,500.00
+2023-02-12,North,Alice,Electronics,7,120.50,843.50
+2023-02-15,South,Diana,Electronics,8,120.50,964.00
+2023-02-18,East,Bob,Furniture,3,350.00,1050.00
+2023-03-10,West,Charlie,Clothing,25,22.50,562.50
+2023-03-20,North,Eve,Furniture,4,275.00,1100.00
+2023-04-02,South,Alice,Electronics,9,125.00,1125.00
+2023-04-12,East,Diana,Clothing,15,35.00,525.00
+2023-04-18,West,Charlie,Electronics,6,100.00,600.00
+2023-05-01,North,Bob,Clothing,18,22.00,396.00
+2023-05-10,South,Eve,Furniture,7,320.00,2240.00
+2023-06-03,East,Alice,Clothing,14,40.00,560.00
+2023-06-10,South,Bob,Electronics,12,130.00,1560.00
+2023-06-18,West,Diana,Furniture,9,310.00,2790.00
